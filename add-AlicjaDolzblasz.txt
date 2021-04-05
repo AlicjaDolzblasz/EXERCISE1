@@ -9,3 +9,61 @@ Gardening on Saturday and Easter brunch with fiancée's family on Sunday
 I plan to sleep a lot and read this book called Emperor of All Maladies.     
 It's a pretty cool book on cancer; I recommend it if you're ever bored. 
 
+commit 074b72ff1eacff53010c5bc721829af27468a394
+Author: Emily <emhuang@ucdavis.edu>
+Date:   Mon Apr 5 17:47:02 2021 +0000
+
+    added my weekend plans
+
+commit 90ca27c43628ba7cfb49dec5b87db22582c412c1
+Author: AlicjaDolzblasz <alicja.dolzblasz@uwr.edu.pl>
+Date:   Sun Apr 4 08:03:13 2021 +0000
+
+    added something
+
+commit f4e63a10a695c1640a3616c804cb7dfbac6afe42
+Author: John Davis <jtdavis@ucdavis.edu>
+Date:   Sat Apr 3 10:31:51 2021 -0700
+
+    Add John's plans
+
+commit 7c601e8c05e322de2e74d33b03dfd0e05610f8a1
+Author: AlicjaDolzblasz <alicja.dolzblasz@uwr.edu.pl>
+Date:   Sat Apr 3 07:36:42 2021 +0000
+
+    added new file
+
+commit bbfa9de52cb4fd78d61c444b87036d667cf3ec0e
+Author: AlicjaDolzblasz <81827095+AlicjaDolzblasz@users.noreply.github.com>
+Date:   Sat Apr 3 07:30:42 2021 +0000
+
+    Initial commit
+commit 074b72ff1eacff53010c5bc721829af27468a394
+Author: Emily <emhuang@ucdavis.edu>
+Date:   Mon Apr 5 17:47:02 2021 +0000
+
+    added my weekend plans
+
+commit 90ca27c43628ba7cfb49dec5b87db22582c412c1
+Author: AlicjaDolzblasz <alicja.dolzblasz@uwr.edu.pl>
+Date:   Sun Apr 4 08:03:13 2021 +0000
+
+    added something
+
+commit f4e63a10a695c1640a3616c804cb7dfbac6afe42
+Author: John Davis <jtdavis@ucdavis.edu>
+Date:   Sat Apr 3 10:31:51 2021 -0700
+
+    Add John's plans
+
+commit 7c601e8c05e322de2e74d33b03dfd0e05610f8a1
+Author: AlicjaDolzblasz <alicja.dolzblasz@uwr.edu.pl>
+Date:   Sat Apr 3 07:36:42 2021 +0000
+
+    added new file
+
+commit bbfa9de52cb4fd78d61c444b87036d667cf3ec0e
+Author: AlicjaDolzblasz <81827095+AlicjaDolzblasz@users.noreply.github.com>
+Date:   Sat Apr 3 07:30:42 2021 +0000
+
+    Initial commit
